@@ -1,0 +1,13 @@
+# Python bytecode and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Generated monitoring data (created automatically when the app runs)
+network_monitor.db
+*.db-journal
+
+# Local environment and editor files
+.env
+.vscode/
